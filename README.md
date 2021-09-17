@@ -1,12 +1,10 @@
-
-##	      Data from: Novelty at dawn: Exploration, low neophobia, and crepuscular activity in a wild 	  ##
-##					                            Common Buzzard (Buteo buteo)					                          ##
-##				                  Berenika Mioduszewska, Mark O’Hara, and Rafał Stryjek		                  	##
+## Data from: Novelty at dawn: Exploration, low neophobia, and crepuscular activity in a wild Common Buzzard (Buteo buteo)					                          
+## Berenika Mioduszewska, Mark O’Hara and Rafał Stryjek
 
 This README.txt file was generated on 2021-09-17 by Mark O'Hara
 
 
-##GENERAL INFORMATION
+### GENERAL INFORMATION
 
 1. Title of Dataset: "Data from: Novelty at dawn: Exploration, low neophobia, and crepuscular activity in a wild Common Buzzard (Buteo buteo)"
 
@@ -25,7 +23,7 @@ This README.txt file was generated on 2021-09-17 by Mark O'Hara
 5. Information about funding sources that supported the collection of the data: This research was funded in part by the Austrian Science Fund (FWF) grants awarded to M.O. (FWF project: J4169–B29).
 
 
-##SHARING/ACCESS INFORMATION
+### SHARING/ACCESS INFORMATION
 
 1. Licenses/restrictions placed on the data: For the purpose of open access, the authors have applied a CC BY public copyright license
 
@@ -34,7 +32,7 @@ This README.txt file was generated on 2021-09-17 by Mark O'Hara
 4. Recommended citation for this dataset: 
 
 
-##DATA & FILE OVERVIEW
+### DATA & FILE OVERVIEW
 
 File List:
 
@@ -48,7 +46,7 @@ Full data set used for environmental data and landing times
 Full R-script for analysis of the data and generating figures
 
 
-##METHODOLOGICAL INFORMATION
+### METHODOLOGICAL INFORMATION
 
 1. Description of methods used for collection/generation of data: 
 Experimental design and protocols used for data collection can be found in 
@@ -57,7 +55,7 @@ Experimental design and protocols used for data collection can be found in
 Submitted data were generated from the raw or collected data as described in 
 
 
-##DATA-SPECIFIC INFORMATION FOR: DataS1_Buzzard_data.txt
+### DATA-SPECIFIC INFORMATION FOR: DataS1_Buzzard_data.txt
 
 1. Number of variables: 22
 2. Number of cases/rows: 27
@@ -87,7 +85,7 @@ Submitted data were generated from the raw or collected data as described in
 4. Missing data codes: "NA" indicates non available data
 
 
-##DATA-SPECIFIC INFORMATION FOR: DataS2_buzz_times.txt
+### DATA-SPECIFIC INFORMATION FOR: DataS2_buzz_times.txt
 
 1. Number of variables: 6
 2. Number of cases/rows: 252
