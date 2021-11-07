@@ -27,9 +27,9 @@ This README.txt file was generated on 2021-09-17 by Mark O'Hara
 
 1. Licenses/restrictions placed on the data: For the purpose of open access, the authors have applied a CC BY public copyright license
 
-2. Links to publications that cite or use the data: 
+2. Links to publications that cite or use the data: doi:10.1177/17581559211052422
 
-4. Recommended citation for this dataset: 
+4. Recommended citation for this dataset: Data for Mioduszewska B, O’Hara M, Stryjek R. Novelty at dawn: Exploration, low neophobia and crepuscular activity in a wild Common Buzzard (Buteo buteo). Avian Biology Research. November 2021.
 
 
 ### DATA & FILE OVERVIEW
@@ -49,10 +49,10 @@ Full R-script for analysis of the data and generating figures
 ### METHODOLOGICAL INFORMATION
 
 1. Description of methods used for collection/generation of data: 
-Experimental design and protocols used for data collection can be found in 
+Experimental design and protocols used for data collection can be found in Mioduszewska B, O’Hara M, Stryjek R. Novelty at dawn: Exploration, low neophobia and crepuscular activity in a wild Common Buzzard (Buteo buteo). Avian Biology Research. November 2021.
 
 2. Methods for processing the data: 
-Submitted data were generated from the raw or collected data as described in 
+Submitted data were generated from the raw or collected data as described in Mioduszewska B, O’Hara M, Stryjek R. Novelty at dawn: Exploration, low neophobia and crepuscular activity in a wild Common Buzzard (Buteo buteo). Avian Biology Research. November 2021.
 
 
 ### DATA-SPECIFIC INFORMATION FOR: DataS1_Buzzard_data.txt
